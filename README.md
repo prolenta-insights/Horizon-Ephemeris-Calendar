@@ -1,12 +1,7 @@
 # Horizon-Ephemeris-Calendar
 
 composed of:
-metonic 13-month lunar phase calendar
-celestial-heliacal event based calendar
-12h digital clock
-5-mins-ahead 12h "polite cloche" style digital clock
-24h UTC digital clock
-"earthly tilt" seasonal calendar
+metonic 13-month lunar phase calendar, celestial-heliacal event based calendar, 12h digital clock, 5-mins-ahead 12h "polite cloche" style digital clock, 24h UTC digital clock, "earthly tilt" seasonal calendar
 
 This calendar tool is within the context of a digital almanac that is currently in production. 
 At the most simplistic level this is a way for users to plan their planting schedules. 
