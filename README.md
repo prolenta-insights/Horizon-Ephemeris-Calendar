@@ -15,7 +15,7 @@ a 12h / 24h manner of time keeping in an accessible way. This aims to present ex
 of measuring our temporality's texture instead of simply “keeping time”.
 
 For users with astrological literacy, this becomes a nifty tool for ameliorating a few of the 
-pain points that comes with practicing that craft effectively: having to correct for universal 
+pain points that come with practicing that craft effectively: having to correct for universal 
 time, research specific sunrises and sunsets to deign day charts/night charts, having to head 
 scratch when figuring out the movements of specific stars during research... these things get 
 clunky so this “calendar” makes grappling with this type of work a bit easier.
@@ -23,6 +23,10 @@ clunky so this “calendar” makes grappling with this type of work a bit easie
 This tool inhabits very simple front end/backend paradigm where the frontend serves as a 
 graphical display for some quite rich backend libraries. It is ephemeris style, meaning that 
 one would be able to query the calendar for specific dates or times. This calendar then renders 
-that information visible on the graphical display. Location data is necessary, of course, to 
+that information visible upon a graphical display. Location data is necessary, of course, to 
 take user’s time zones into account plus the specifics about the diurnal sunrise/sunset data.
 The calendar would by default run like a “clock” but users can query for specific dates and times.
+Above all, this tool is a 13-month lunar calendar, communicating when moon presents as full vs 
+when it presents as otherwise. By analyzing, additionally, the season of the upper hemisphere
+of the Earth (distance ratio between solstices and equinoxes), this calendar reports to us an 
+all-inclusive, percentage-based measure of the earth's tilt in respects to the sun.
